@@ -1,0 +1,6 @@
+{
+  "name": "AKGMM",
+  "description": "AKGMM - Official Vargani & Pavti Book application for अखिल गणेशनगर मित्र मंडळ, हडपसर, पुणे. Manage collections, digital WhatsApp receipts, expenses, and financial balance sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
